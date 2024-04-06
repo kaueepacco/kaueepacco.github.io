@@ -65,9 +65,11 @@ Caching Strategies to Speed Up Your API do LogRocket, que oferece uma visão ger
 https://blog.logrocket.com/caching-strategies-to-speed-up-your-api/
 
 ### Contribuições
-Kauê Pacco (RA 10388522)
+**Kauê Pacco (RA 10388522)**
 *Leitura e pesquisa dos artigos e participação na implementação e manipulação do Github*
-David Nunes (RA )
+
+**David Nunes (RA 10388339)**
 *Pesquisa e implementação do código em python*
-Moises Santana (RA )
+
+**Moises Santana (RA 10390421)**
 *Pesquisa do tema e participação na implementação*
